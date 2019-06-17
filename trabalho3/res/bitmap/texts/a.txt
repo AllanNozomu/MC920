@@ -1,0 +1,2 @@
+“touch” relations of objects in the scene 18 added, then the
+
