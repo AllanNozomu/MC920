@@ -130,3 +130,5 @@ venv.bak/
 *-blx.aux
 *-blx.bib
 *.run.xml
+
+*.zip
